@@ -1,2 +1,2 @@
-# my projects and portfolio
+# my portfolio and projects
 My projects
