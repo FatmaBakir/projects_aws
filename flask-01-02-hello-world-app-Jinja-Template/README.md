@@ -1,4 +1,4 @@
-# Hands-on Flask-01-02 : Creating First Flask Application - Hello World and basic usage of Jinja Templates
+# Creating My First Flask Application - Hello World and basic usage of Jinja Templates
 
 ## Outline
 
