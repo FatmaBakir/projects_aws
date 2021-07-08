@@ -33,7 +33,7 @@ Resources:
             #! /bin/bash
             yum update -y
             yum install httpd -y
-            FOLDER="https://github.com/FatmaBakir/my_projects_2/tree/main/Kittens-carousel-static-website-ec2-cloudformation/static-web"
+            FOLDER="https://raw.githubusercontent.com/FatmaBakir/my_projects_2/main/Kittens-carousel-static-website-ec2-cloudformation/static-web"
             cd /var/www/html
             wget $FOLDER/index.html
             wget $FOLDER/cat0.jpg
